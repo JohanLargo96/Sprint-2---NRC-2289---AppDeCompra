@@ -1,16 +1,9 @@
-# sprint_2
+# Sprint 2 - Grupo 7 - NRC 2289
 
-A new Flutter project.
+App de Compra.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Se puede descargar el archivo apk de la aplicación (apk-release.apk) y una vista previa de la misma.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![simplescreenrecorder-2022-11-17_12 39 55](https://user-images.githubusercontent.com/113074370/202519841-a80b051e-1232-4fee-a45a-adec0d6f2212.gif)
